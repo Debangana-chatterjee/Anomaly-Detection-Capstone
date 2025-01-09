@@ -7,15 +7,16 @@
 ## Contents
 1. [Introduction](#introduction)
 2. [Dataset Overview](#dataset-overview)
-3. [Design Choices](#design-choices)
-     i.[Data Preprocessing](#data-preprocessing)
-     ii.[Feature Engineering](#feature-engineering)
-     iii.[Model Selection and Training](#model-selection-and-training)
-     iv.[Model Validation](#model-validation)
+3. [Design Choices](#design-choices)  
+   i. [Data Preprocessing](#data-preprocessing)  
+   ii. [Feature Engineering](#feature-engineering)  
+   iii. [Model Selection and Training](#model-selection-and-training)  
+   iv. [Model Validation](#model-validation)  
 4. [Performance Evaluation](#performance-evaluation)
 5. [Future Work](#future-work)
 6. [Source Code](#source-code)
 7. [Conclusion](#conclusion)
+
 
 ---
 
