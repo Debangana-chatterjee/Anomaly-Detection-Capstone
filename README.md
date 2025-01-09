@@ -53,10 +53,10 @@ This project focuses on developing an automated anomaly detection system for pre
 
 - **Model Selection and Training:**
   -	Different classification models were considered for this project including:
-      o	Logistic Regression
-      o	Random Forest Classifier
-      o	Support Vector Machine
-      o	Gradient Boosting(XGBoost)
+      -	Logistic Regression
+      -	Random Forest Classifier
+      -	Support Vector Machine
+      -	Gradient Boosting(XGBoost)
    	
     The choice of model was based on their performance on the validation dataset, ability to handle class imbalance and ability of reducing overfitting.
    	
@@ -65,12 +65,12 @@ This project focuses on developing an automated anomaly detection system for pre
 
 - **Model Validation**
 Performance was evaluated using metrics like:
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC Score
-- Confusion Matrix
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 Score
+  - ROC-AUC Score
+  - Confusion Matrix
 
 ---
 
