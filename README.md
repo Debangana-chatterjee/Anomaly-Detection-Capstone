@@ -8,14 +8,14 @@
 1. [Introduction](#introduction)
 2. [Dataset Overview](#dataset-overview)
 3. [Design Choices](#design-choices)
-4. [Data Preprocessing](##data-preprocessing)
-5. [Feature Engineering](##feature-engineering)
-6. [Model Selection and Training](##model-selection-and-training)
-7. [Model Validation](##model-validation)
-8. [Performance Evaluation](#performance-evaluation)
-9. [Future Work](#future-work)
-10. [Source Code](#source-code)
-11. [Conclusion](#conclusion)
+     -[Data Preprocessing](#data-preprocessing)
+     -[Feature Engineering](#feature-engineering)
+     -[Model Selection and Training](#model-selection-and-training)
+     -[Model Validation](#model-validation)
+4. [Performance Evaluation](#performance-evaluation)
+5. [Future Work](#future-work)
+6. [Source Code](#source-code)
+7. [Conclusion](#conclusion)
 
 ---
 
