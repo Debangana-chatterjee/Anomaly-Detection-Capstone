@@ -76,9 +76,11 @@ Performance was evaluated using metrics like:
 
 ## Performance Evaluation
 Upon evaluating various model’s performance, it was found that the accuracy score exceeded 75%, meeting the project’s success criteria. 
- Key performance metrics demonstrated that all the models were capable of detecting anomalies effectively, balancing both precision and recall.
+
+Key performance metrics demonstrated that all the models were capable of detecting anomalies effectively, balancing both precision and recall.
  
 As all the models showed high accuracy on scaled validation set, we used the models to predict the scaled test data; the AUC scores obtained for all models were 0.99 or 1.00
+
 Random Forest’s and XGBoost’s built-in attribute Feature importance analysis indicated that certain features significantly influenced the model’s predictions.
 
 
