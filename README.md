@@ -37,7 +37,7 @@ This project focuses on developing an automated anomaly detection system for pre
 ---
 
 ## Design Choices
-- **Data Preprocessing:**
+- ### Data Preprocessing:
   -	Handling Missing values
   -	Checking data types of all features and target class 
   - Using descriptive statistics we saw that the mean of target class ‘y’ is 0.0067 i.e. the target class was highly imbalanced and we visualized the class imbalance. 
@@ -45,14 +45,14 @@ This project focuses on developing an automated anomaly detection system for pre
   -	We have also standardized the features using StandardScalar to improve model performance.
 
 
-- **Feature Engineering:**
+- ### Feature Engineering:
   -	Visualizing Features Correlation plot for better understanding of the relationship among the features.
   -	Derived metrics like sum, mean, standard deviation, and min, max to capture trends in data.
   -	Transforming datatype of ‘time’ feature, added new features ‘hour’, ’month’, ’date’ with corrected datatype.
   -	Used XGBoost’s and Random Forest Classifier’s built-in feature importance to select the most influential predictors.
 
 
-- **Model Selection and Training:**
+- ### Model Selection and Training:
   -	Different classification models were considered for this project including:
       -	Logistic Regression
       -	Random Forest Classifier
@@ -64,7 +64,7 @@ This project focuses on developing an automated anomaly detection system for pre
   - The dataset was split into 3 sets training, validation and testing sets. The training set was used to fit the model, tuning hyperparameters as necessary to improve model performance.
 
 
-- **Model Validation:**
+- ### Model Validation:
 Performance was evaluated using metrics like:
   - Accuracy
   - Precision
