@@ -63,7 +63,7 @@ This project focuses on developing an automated anomaly detection system for pre
   - The dataset was split into 3 sets training, validation and testing sets. The training set was used to fit the model, tuning hyperparameters as necessary to improve model performance.
 
 
-- **Model Validation**
+- **Model Validation:**
 Performance was evaluated using metrics like:
   - Accuracy
   - Precision
